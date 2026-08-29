@@ -1,0 +1,17 @@
+{
+  "overview": "A polished showcase website that explains the GenAI Content Transformation concept — how existing content is transformed into new useful formats using generative AI.",
+  "features": [
+    "Explain the input-to-output content transformation concept",
+    "Walk through the GenAI transformation pipeline step by step",
+    "Demonstrate six output formats with sample content",
+    "Present the AI engineer skills and tech stack"
+  ],
+  "category": "showcase",
+  "tags": [
+    "genai",
+    "content-transformation",
+    "showcase",
+    "ai"
+  ],
+  "last_updated": "2026-08-29T07:52:59.258Z"
+}
